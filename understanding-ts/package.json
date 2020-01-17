@@ -1,0 +1,15 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:tonythetiger323/UnderstandingTypeScript.git",
+  "author": "Tony Greeley <tony.greeley@me.com>",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
